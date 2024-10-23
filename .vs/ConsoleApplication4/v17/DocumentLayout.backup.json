@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felix\\source\\repos\\ConsoleApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C2384-6ACA-4816-ADFE-5BA729B02518}|ConsoleApplication4\\ConsoleApplication4.vcxproj|C:\\Users\\Felix\\source\\repos\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C3C2384-6ACA-4816-ADFE-5BA729B02518}|ConsoleApplication4\\ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication4.cpp",
+              "DocumentMoniker": "C:\\Users\\Felix\\source\\repos\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication4\\ConsoleApplication4.cpp",
+              "ToolTip": "C:\\Users\\Felix\\source\\repos\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "RelativeToolTip": "ConsoleApplication4\\ConsoleApplication4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T08:07:04.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
